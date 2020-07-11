@@ -1,6 +1,6 @@
 # AWESOME-MER
 
- :memo: A reading list focused on Multimodal Emotion Recognition (MER) :ear: :lips: :eyes: :speech_balloon:
+ :memo: A reading list focused on Multimodal Emotion Recognition (MER)  :ear: :lips: :eyes: :speech_balloon:
 
 ***
 
@@ -34,10 +34,10 @@
 
 ## Related Reviews
 
-- (Information Fusion 2017) A review of affective computing: From unimodal analysis to multimodal fusion [[paper](https://ww.sentic.net/affective-computing-review.pdf)] 
+- (Information Fusion17) A review of affective computing: From unimodal analysis to multimodal fusion [[paper](https://ww.sentic.net/affective-computing-review.pdf)] 
 
-- (Image and Vision Computing 2017) A survey of multimodal sentiment analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/multi_modal.pdf)] 
-- (ACM Computing Surveys 2015) A Review and Meta-Analysis of Multimodal Affect Detection Systems [[paper](https://dl.acm.org/doi/10.1145/2682899)] 
+- (Image and Vision Computing17) A survey of multimodal sentiment analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/multi_modal.pdf)] 
+- (ACM Computing Surveys15) A Review and Meta-Analysis of Multimodal Affect Detection Systems [[paper](https://dl.acm.org/doi/10.1145/2682899)] 
 
 ## Multimodal Emotion Recognition
 
@@ -106,5 +106,5 @@
 
 ### :small_orange_diamond: Others
 
- (IEEE Journal of Selected Topics in Signal Processing 2017) End-to-End Multimodal Emotion Recognition Using Deep Neural Networks [[paper](https://arxiv.org/pdf/1704.08619.pdf)] [:white_small_square:Visual :white_small_square:Audio]
+- (IEEE Journal of Selected Topics in Signal Processing 2017) End-to-End Multimodal Emotion Recognition Using Deep Neural Networks [[paper](https://arxiv.org/pdf/1704.08619.pdf)] [:white_small_square:Visual :white_small_square:Audio]
 
