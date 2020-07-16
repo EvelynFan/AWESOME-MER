@@ -18,17 +18,17 @@
 
 ## Datasets
 
-- [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)[:white_small_square:Face:white_small_square:Context]
-- [Multimodal Spontaneous Emotion Database (BP4D+)](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)[:white_small_square:Face:white_small_square:Thermal data:white_small_square:Physiological data]
-- [LIRIS-ACCEDE Database](https://liris-accede.ec-lyon.fr/)[:white_small_square:Visual:white_small_square:Audio]
-- [SEMAINE Database](https://ibug.doc.ic.ac.uk/resources/semaine-database2/)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Conversation transcripts]
-- [IEMOCAP Database](https://sail.usc.edu/iemocap/)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Text transcripts]
-- [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Language]
-- [EmotiW Database](https://sites.google.com/view/emotiw2020)[:white_small_square:Visual:white_small_square:Audio]
-- [MAHNOB-HCI](https://mahnob-db.eu/hci-tagging/)[:white_small_square:Visual:white_small_square:Eye gaze:white_small_square:Physiological data]
-- [ASCERTAIN Dataset](http://mhug.disi.unitn.it/wp-content/ASCERTAIN/ascertain.html)[:white_small_square:Facial activity data:white_small_square:Physiological data]
-- [eNTERFACE Dataset](http://enterface.net/)[:white_small_square:Visual:white_small_square:Audio]
-- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)[:white_small_square:Visual:white_small_square:Audio]
+- (2018) [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Language]
+- (2018) [ASCERTAIN Dataset](http://mhug.disi.unitn.it/wp-content/ASCERTAIN/ascertain.html)[:white_small_square:Facial activity data:white_small_square:Physiological data]
+- (2017) [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)[:white_small_square:Face:white_small_square:Context]
+- (2016) [Multimodal Spontaneous Emotion Database (BP4D+)](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)[:white_small_square:Face:white_small_square:Thermal data:white_small_square:Physiological data]
+- (2016) [EmotiW Database](https://sites.google.com/view/emotiw2020)[:white_small_square:Visual:white_small_square:Audio]
+- (2015) [LIRIS-ACCEDE Database](https://liris-accede.ec-lyon.fr/)[:white_small_square:Visual:white_small_square:Audio]
+- (2014) [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)[:white_small_square:Visual:white_small_square:Audio]
+- (2013) [SEMAINE Database](https://ibug.doc.ic.ac.uk/resources/semaine-database2/)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Conversation transcripts]
+- (2011) [MAHNOB-HCI](https://mahnob-db.eu/hci-tagging/)[:white_small_square:Visual:white_small_square:Eye gaze:white_small_square:Physiological data]
+- (2008) [IEMOCAP Database](https://sail.usc.edu/iemocap/)[:white_small_square:Visual:white_small_square:Audio:white_small_square:Text transcripts]
+- (2005) [eNTERFACE Dataset](http://enterface.net/)[:white_small_square:Visual:white_small_square:Audio]
 
 ## Challenges
 
@@ -172,6 +172,12 @@
 - (2020) Context Based Emotion Recognition using EMOTIC Dataset  [[paper](https://arxiv.org/abs/2003.13401)]
 
   [:white_small_square:Face :white_small_square:Context]
+
+### IEEE Transactions on Circuits and Systems for Video Technology
+
+- (2018) Learning Affective Features With a Hybrid Deep Model for Audio–Visual Emotion Recognition [[paper](https://ieeexplore.ieee.org/document/7956190)]
+
+  [:white_small_square:Visual :white_small_square:Audio ]
 
 ### :small_orange_diamond:  IEEE Transactions on Cybernetics 
 
