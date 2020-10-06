@@ -48,6 +48,8 @@
 
 ## Related Reviews
 
+- (IEEE Journal of Selected Topics in Signal Processing20) Multimodal Intelligence: Representation Learning,
+Information Fusion, and Applications [[paper](https://arxiv.org/pdf/1911.03977.pdf)]
 - (Information Fusion20) A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition [[paper](https://www.sciencedirect.com/science/article/pii/S1566253519301381)]
 - (Information Fusion17) A review of affective computing: From unimodal analysis to multimodal fusion [[paper](https://ww.sentic.net/affective-computing-review.pdf)] 
 - (Image and Vision Computing17) A survey of multimodal sentiment analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/multi_modal.pdf)] 
